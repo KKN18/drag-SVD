@@ -1,0 +1,12 @@
+*.npy
+*.png
+*.pt
+fixed_pixels/
+frames/
+image/
+latents/
+mvright_pixels/
+output/
+pixels/
+simple_pixels/
+two_pixels/
